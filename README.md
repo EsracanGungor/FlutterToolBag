@@ -2,8 +2,8 @@
 Yapılacaklar listesi, hesap makinesi, galeri ve tema değişimi sayfaları bulunan  flutter projesidir. 
 Yapılacaklar listesinde Cloud Firestore ve google ile giriş kullanılmış, silme ve düzenleme özellikleri bulunmaktadır.
 Galeri bölümünde resimler kaynak siteden çekilmektedir.
-<img src="https://github.com/EsracanGungor/FlutterToolBag/blob/main/mainpage.png" width="450"/>
-<img src="https://github.com/EsracanGungor/FlutterToolBag/blob/main/mainpage1.png" width="450"/> 
+<img src="https://github.com/EsracanGungor/FlutterToolBag/blob/main/mainpage1.png" width="450"/>
+<img src="https://github.com/EsracanGungor/FlutterToolBag/blob/main/mainpage.png" width="450"/> 
 <br>
 <img src="https://github.com/EsracanGungor/FlutterToolBag/blob/main/todo.png" width="200"/>
 <img src="https://github.com/EsracanGungor/FlutterToolBag/blob/main/todo2.png" width="200"/> 
