@@ -3,7 +3,6 @@ Yapılacaklar listesi, hesap makinesi, galeri ve tema değişimi sayfaları bulu
 Yapılacaklar listesinde Cloud Firestore ve google ile giriş kullanılmış, silme ve düzenleme özellikleri bulunmaktadır.
 Galeri bölümünde resimler kaynak siteden çekilmektedir.
 
-
 <img src="https://github.com/EsracanGungor/FlutterToolBag/blob/main/mainpage1.png" width="450"/>
 <img src="https://github.com/EsracanGungor/FlutterToolBag/blob/main/mainpage.png" width="450"/> 
 <br>
