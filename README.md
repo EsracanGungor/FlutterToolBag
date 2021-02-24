@@ -5,10 +5,10 @@ Galeri bölümünde resimler kaynak siteden çekilmektedir.
 <img src="https://github.com/EsracanGungor/FlutterToolBag/blob/main/mainpage1.png" width="450"/>
 <img src="https://github.com/EsracanGungor/FlutterToolBag/blob/main/mainpage.png" width="450"/> 
 <br>
-<img src="https://github.com/EsracanGungor/FlutterToolBag/blob/main/todo.png" width="200"/>
-<img src="https://github.com/EsracanGungor/FlutterToolBag/blob/main/todo2.png" width="200"/> 
-<img src="https://github.com/EsracanGungor/FlutterToolBag/blob/main/todo3.png" width="200"/> 
-<img src="https://github.com/EsracanGungor/FlutterToolBag/blob/main/todo4.png" width="200"/> 
+<img src="https://github.com/EsracanGungor/FlutterToolBag/blob/main/todo.png" width="250"/>
+<img src="https://github.com/EsracanGungor/FlutterToolBag/blob/main/todo2.png" width="250"/> 
+<img src="https://github.com/EsracanGungor/FlutterToolBag/blob/main/todo3.png" width="250"/> 
+<img src="https://github.com/EsracanGungor/FlutterToolBag/blob/main/todo4.png" width="250"/> 
 <img src="https://github.com/EsracanGungor/FlutterToolBag/blob/main/gallery.png" width="300"/> 
 <img src="https://github.com/EsracanGungor/FlutterToolBag/blob/main/gallery2.png" width="300"/> 
 <img src="https://github.com/EsracanGungor/FlutterToolBag/blob/main/gallery3.png" width="300"/> 
